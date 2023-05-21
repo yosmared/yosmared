@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Yosmar, and I've been a web developer for over 15 years.
+My name is Yosmar, and I've been a software developer for over 15 years.
 <!--
 **yosmared/yosmared** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
